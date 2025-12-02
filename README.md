@@ -79,7 +79,7 @@ Supports CSV and JSON.
 
 -----------------------------------------------
 
-## ⌕ Dashboard Insights
+## 📟 Dashboard Insights
 - Sentiment charts
 - Trend visualizations
 - AI-generated summaries
